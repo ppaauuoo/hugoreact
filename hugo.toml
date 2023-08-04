@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://hugotest-fwv1.onrender.com/'
+languageCode = 'th-th'
 title = 'Paul is Cool with Hugo'
 theme = 'ananke'
